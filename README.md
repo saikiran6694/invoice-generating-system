@@ -6,9 +6,10 @@
 <p>After cloning cd to invoice-generator folder </p>
 <p>Next run the following commoand</p>
 <br />
-
 <h4>npm install</h3>
 <h4>npm start </h4>
+
+<h3>Demo link: "https://swipe-assignment-invoice.netlify.app/" </h3>
 
 <h2>Output Screenshots</h2>
 <img src="https://i.ibb.co/rFjGZJL/Screenshot-2023-04-07-at-4-20-35-PM.png" alt="output-screenshots" />
